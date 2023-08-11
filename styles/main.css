@@ -96,7 +96,7 @@ cursor: pointer;
     cursor: pointer;
     border-radius: 5px;
     display: none;
-  }
+}
 
 
 .main__home{
@@ -314,7 +314,6 @@ transition: 0.4s;
 }
 
 
-
 .footer__content{
     margin-bottom: 130px;
 }
@@ -389,7 +388,7 @@ line-height: 36px;
 .content__center-catalog{
     display: flex;
     margin-top: 32px;
-    gap: 116px;
+    column-gap: 116px;
 }
 
 .content__center-tabs{
